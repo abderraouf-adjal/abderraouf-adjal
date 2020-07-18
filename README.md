@@ -1,4 +1,7 @@
-# Abderraouf Adjal
+<h1 align="center">
+Abderraouf Adjal
+</h1>
+
 ---
 
 ## Personal projects list:
@@ -8,7 +11,7 @@
 * [**Arduino Easy config**](https://github.com/abderraouf-adjal/arduino-easy-config): Library to manage configuration data such as Wi-Fi & MQTT credentials of small IoT devices using backends such as *ARM Mbed LittleFS*.
 * [**Tank level monitor firmware - ESP8266**](https://github.com/abderraouf-adjal/tank-monitor-firmware-esp8266): IoT Tank/Aquarium level monitor by a distance sensor (Private).
 * [**Svalinn firmware - ESP8266**](https://github.com/abderraouf-adjal/svalinn-firmware-esp8266): Firmware of an MQTT-based wireless IoT indoor alarm system (bachelor's graduation project).
-* [**atmega328p template C99**](https://github.com/abderraouf-adjal/atmega328p_template_c99): A C99 template to develop firmware for the ATmega328P AVR-based micro-controller.
+* [**ATmega328P template C99**](https://github.com/abderraouf-adjal/atmega328p_template_c99): A basic C99 template to develop firmware for the ATmega328P AVR-based micro-controller.
 
 ---
 ### Utilities:
