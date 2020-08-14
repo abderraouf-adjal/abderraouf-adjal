@@ -13,7 +13,7 @@ Abderraouf Adjal
 * [**Svalinn firmware - ESP8266**](https://github.com/abderraouf-adjal/svalinn-firmware-esp8266): Firmware of an MQTT-based wireless IoT indoor alarm system (bachelor's graduation project).
 * [**ATmega328P template C99**](https://github.com/abderraouf-adjal/atmega328p_template_c99): A basic C99 template to develop firmware for the ATmega328P AVR-based micro-controller.
 
-* [**Embedded Type-C PID**](https://github.com/abderraouf-adjal/Embedded-PID): Portable implementation of Type-C PID controller with a flexible API and errors handling. . Also an Arduino library.
+* [**Embedded Type-C PID**](https://github.com/abderraouf-adjal/Embedded-PID): Portable implementation of Type-C PID controller with a flexible API and errors handling. Also an Arduino library.
 
 ---
 ### Utilities:
