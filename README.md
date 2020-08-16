@@ -4,7 +4,7 @@ Abderraouf Adjal
 
 ---
 
-## Personal projects list:
+## Personal projects highlight:
 
 ### Embedded systems:
 * [**ArduinoSpritzCipher**](https://github.com/abderraouf-adjal/ArduinoSpritzCipher): Arduino encryption C library; Spritz library for Arduino, CSPRNG, cryptographic hash and MAC functions, symmetric-key data encryption, and general-purpose functions.
@@ -13,7 +13,7 @@ Abderraouf Adjal
 * [**Svalinn firmware - ESP8266**](https://github.com/abderraouf-adjal/svalinn-firmware-esp8266): Firmware of an MQTT-based wireless IoT indoor alarm system (bachelor's graduation project).
 * [**ATmega328P template C99**](https://github.com/abderraouf-adjal/atmega328p_template_c99): A basic C99 template to develop firmware for the ATmega328P AVR-based micro-controller.
 
-* [**Embedded Type-C PID**](https://github.com/abderraouf-adjal/Embedded-PID): Portable implementation of Type-C PID controller with a flexible API and errors handling. Also an Arduino library.
+* [**Embedded Type-C PID**](https://github.com/abderraouf-adjal/Embedded-PID): Portable implementation of Type-C PID controller with a flexible API and errors handling. This can be used to control practical applications such as temperature regulation and balancing drones. It's also an Arduino library.
 
 ---
 ### Utilities:
@@ -23,3 +23,7 @@ Abderraouf Adjal
 ---
 ### Misc:
 * [**DEKDB**](https://github.com/abderraouf-adjal/dekdb-format-specifications): Deniable Encrypted Keys Database (DEKDB) format specifications.
+
+---
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O721ZMI)
