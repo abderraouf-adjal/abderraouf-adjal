@@ -13,6 +13,7 @@ Abderraouf Adjal
 - [**Tank level monitor firmware - ESP8266**](https://github.com/abderraouf-adjal/tank-monitor-firmware-esp8266): IoT Tank/Aquarium level monitor by a distance sensor (Private).
 - [**Svalinn firmware - ESP8266**](https://github.com/abderraouf-adjal/svalinn-firmware-esp8266): Firmware of an MQTT-based wireless IoT indoor alarm system (bachelor's graduation project).
 - [**ATmega328P template C99**](https://github.com/abderraouf-adjal/atmega328p_template_c99): A basic C99 template to develop firmware for the ATmega328P AVR-based micro-controller.
+- [**Wireless Presentation Remote Control**](https://github.com/abderraouf-adjal/rf-presentation-remote-control): A USB wireless slides navigator using STM32F103 (HAL), and ESP8266 for 2.4GHz RF communication by ESP-NOW protocol.
 
 - [**Embedded Type-C PID**](https://github.com/abderraouf-adjal/Embedded-PID): Portable implementation of Type-C PID controller with a flexible API and errors handling. This can be used to control practical applications such as temperature regulation and balancing drones. It's also an Arduino library.
 
