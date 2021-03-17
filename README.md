@@ -8,7 +8,7 @@ Abderraouf Adjal
 
 ### Embedded systems
 #### Libraries
-- [**ArduinoSpritzCipher**](https://github.com/abderraouf-adjal/ArduinoSpritzCipher): Arduino encryption C library; Spritz library for Arduino, CSPRNG, cryptographic hash and MAC functions, symmetric-key data encryption, and general-purpose functions.
+- [**ArduinoSpritzCipher**](https://github.com/abderraouf-adjal/ArduinoSpritzCipher): Spritz encryption system portable C library, CSPRNG, cryptographic hash and MAC functions, symmetric-key data encryption, and general-purpose functions.  It's also an Arduino library.
 - [**Arduino Easy config**](https://github.com/abderraouf-adjal/arduino-easy-config): Library to manage configuration data such as Wi-Fi & MQTT credentials of small IoT devices using backends such as *ARM Mbed LittleFS*. Currently for ESP8266 SoC only.
 - [**Embedded Type-C PID**](https://github.com/abderraouf-adjal/Embedded-PID): Portable implementation of Type-C PID controller with a flexible API and errors handling. This can be used to control practical applications such as temperature regulation and balancing drones. It's also an Arduino library.
 
