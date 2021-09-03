@@ -28,6 +28,8 @@ Abderraouf Adjal
 ### Misc
 
 - [**Algorithms**](https://github.com/abderraouf-adjal/algorithms): Implementation of various algorithms and protocols.
+- [**An Extendable Modular IoT Remote I/O System for Smart Buildings**](https://github.com/abderraouf-adjal/RPi_Remote_MQTT_Edge_IO): Master’s degree thesis project (2021).
+
 
 ---
 
