@@ -11,6 +11,7 @@ Abderraouf Adjal
 - [**ArduinoSpritzCipher**](https://github.com/abderraouf-adjal/ArduinoSpritzCipher): Spritz encryption system portable C library, CSPRNG, cryptographic hash and MAC functions, symmetric-key data encryption, and general-purpose functions.  It's also an Arduino library.
 - [**Arduino Easy config**](https://github.com/abderraouf-adjal/arduino-easy-config): Library to manage configuration data such as Wi-Fi & MQTT credentials of small IoT devices using backends such as *ARM Mbed LittleFS*. Currently for ESP8266 SoC only.
 - [**Embedded Type-C PID**](https://github.com/abderraouf-adjal/Embedded-PID): Portable implementation of Type-C PID controller with a flexible API and errors handling. This can be used to control practical applications such as temperature regulation and balancing drones. It's also an Arduino library.
+- [**FPGA/ASIC HDL Modules**](https://github.com/abderraouf-adjal/hdl-modules): A collection of HDL modules in Verilog and VHDL for FPGA/ASIC projects development.
 
 #### Devices
 - [**Tank level monitor firmware - ESP8266**](https://github.com/abderraouf-adjal/tank-monitor-firmware-esp8266): IoT Tank/Aquarium level monitor by a distance sensor (Private).
